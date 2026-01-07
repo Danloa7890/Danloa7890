@@ -11,7 +11,7 @@ class AlexLoaiza:
             'backend': ['Python', 'Java (Spring Boot)', 'Flask', 'Django', 'NodeJS'],
             'database': ['PostgreSQL', 'MySQL','MongoDB'],
             'devops': ['Docker', 'GitHub Actions', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'Visual Studio Code', 'netbeans', 'Jupyter notebook', 'SQLAlchemy', 'Redis'],
+            'tools': ['GIT', 'GitHub', 'Visual Studio Code', 'netbeans', 'Jupyter notebook'],
             'misc': ['TDD', 'SCRUM', 'SOLID']
         }
         self.architecture = ['SPA', 'MVC', 'microservices']
