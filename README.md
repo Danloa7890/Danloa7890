@@ -1,16 +1,28 @@
-## Hi there 👋
+```python
+class AlexLoaiza:
 
-<!--
-**Danloa7890/Danloa7890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    def __init__(self):
+        self.username = 'Danloa7890'
+        self.name = 'Alex Danilo Loaiza Gomezcuello'
+        self.web = ' '
+        self.twitter = '@alexdanilo830'
+        self.code = {
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'React'],
+            'backend': ['Python', 'Java (Spring Boot)', 'Flask', 'Django', 'NodeJS'],
+            'database': ['PostgreSQL', 'MySQL','MongoDB'],
+            'devops': ['Docker', 'GitHub Actions', 'Heroku'],
+            'tools': ['GIT', 'GitHub', 'Visual Studio Code', 'netbeans', 'Jupyter notebook', 'SQLAlchemy', 'Redis'],
+            'misc': ['TDD', 'SCRUM', 'SOLID']
+        }
+        self.architecture = ['SPA', 'MVC', 'microservices']
 
-Here are some ideas to get you started:
+    def __str__(self):
+        return self.name
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+if __name__ == '__main__':
+    me = AlexLoaiza()
+
+
+
+```
