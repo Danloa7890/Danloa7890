@@ -4,8 +4,6 @@ class AlexLoaiza:
     def __init__(self):
         self.username = 'Danloa7890'
         self.name = 'Alex Danilo Loaiza Gomezcuello'
-        self.web = ' '
-        self.twitter = '@alexdanilo830'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'React'],
             'backend': ['Python', 'Flask', 'Django', 'NodeJS'],
