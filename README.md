@@ -8,7 +8,7 @@ class AlexLoaiza:
         self.twitter = '@alexdanilo830'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'React'],
-            'backend': ['Python', 'Java (Spring Boot)', 'Flask', 'Django', 'NodeJS'],
+            'backend': ['Python', 'Flask', 'Django', 'NodeJS'],
             'database': ['PostgreSQL', 'MySQL','MongoDB'],
             'devops': ['Docker', 'GitHub Actions', 'Heroku'],
             'tools': ['GIT', 'GitHub', 'Visual Studio Code', 'netbeans', 'Jupyter notebook'],
