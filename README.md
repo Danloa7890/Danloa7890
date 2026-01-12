@@ -15,7 +15,6 @@ class AlexLoaiza:
             'frontend': ['HTML', 'CSS', 'JavaScript', 'React'],
             'backend': ['Python', 'Flask', 'Django', 'NodeJS'],
             'database': ['PostgreSQL', 'MySQL','MongoDB'],
-            'devops': ['Docker', 'GitHub Actions', 'Heroku'],
             'tools': ['GIT', 'GitHub', 'Visual Studio Code', 'netbeans', 'Jupyter notebook'],
             'misc': ['TDD', 'SCRUM', 'SOLID']
         }
